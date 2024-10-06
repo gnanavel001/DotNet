@@ -1,0 +1,15 @@
+d:\dotnet\VSCodeBasedProjects\bin\Debug\net8.0\VSCodeBasedProjects.exe
+d:\dotnet\VSCodeBasedProjects\bin\Debug\net8.0\VSCodeBasedProjects.deps.json
+d:\dotnet\VSCodeBasedProjects\bin\Debug\net8.0\VSCodeBasedProjects.runtimeconfig.json
+d:\dotnet\VSCodeBasedProjects\bin\Debug\net8.0\VSCodeBasedProjects.dll
+d:\dotnet\VSCodeBasedProjects\bin\Debug\net8.0\VSCodeBasedProjects.pdb
+d:\dotnet\VSCodeBasedProjects\obj\Debug\net8.0\VSCodeBasedProjects.GeneratedMSBuildEditorConfig.editorconfig
+d:\dotnet\VSCodeBasedProjects\obj\Debug\net8.0\VSCodeBasedProjects.AssemblyInfoInputs.cache
+d:\dotnet\VSCodeBasedProjects\obj\Debug\net8.0\VSCodeBasedProjects.AssemblyInfo.cs
+d:\dotnet\VSCodeBasedProjects\obj\Debug\net8.0\VSCodeBasedProjects.csproj.CoreCompileInputs.cache
+d:\dotnet\VSCodeBasedProjects\obj\Debug\net8.0\VSCodeBasedProjects.sourcelink.json
+d:\dotnet\VSCodeBasedProjects\obj\Debug\net8.0\VSCodeBasedProjects.dll
+d:\dotnet\VSCodeBasedProjects\obj\Debug\net8.0\refint\VSCodeBasedProjects.dll
+d:\dotnet\VSCodeBasedProjects\obj\Debug\net8.0\VSCodeBasedProjects.pdb
+d:\dotnet\VSCodeBasedProjects\obj\Debug\net8.0\VSCodeBasedProjects.genruntimeconfig.cache
+d:\dotnet\VSCodeBasedProjects\obj\Debug\net8.0\ref\VSCodeBasedProjects.dll
