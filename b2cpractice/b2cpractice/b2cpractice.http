@@ -1,0 +1,6 @@
+@b2cpractice_HostAddress = http://localhost:5232
+
+GET {{b2cpractice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
